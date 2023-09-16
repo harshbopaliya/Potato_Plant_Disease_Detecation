@@ -1,2 +1,1 @@
-# Ctrl-Alt
-Hackathon Project based on Deep Learing
+# Hackathon Project based on Deep Learing
